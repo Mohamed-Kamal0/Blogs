@@ -14,9 +14,6 @@ A full-stack blog platform where users can create, read, update, and delete post
 - EJS (Embedded JavaScript Templates)
 - HTML5, CSS3
 
-## 📸 Screenshot
-![Blog App Screenshot](screenshot.png)
-
 ## 📂 How to Run
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
